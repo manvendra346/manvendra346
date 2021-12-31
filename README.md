@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xplode346
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,5 +1,4 @@
 # Hi, I’m Manvendra_Singh :wave:
-- I like learning state of the art techniques to find a better inovative ways to solve existing problems. 
 - I am currently learning Data Science.
 
 ### Tech Stack
